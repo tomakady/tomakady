@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 DevOps Engineer building AWS infrastructure with Terraform, automating CI/CD with GitHub Actions, and deploying containerized applications on EKS/ECS. Obsessed with solving infrastructure problems and building tools engineers want to use.
 
 ## 🔗 Connect with me:
