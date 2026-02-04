@@ -10,7 +10,7 @@ DevOps Engineer building AWS infrastructure with Terraform, automating CI/CD wit
 
 # 🚀 Projects:
 
-### [Production ECS Platform with Blue/Green Deployments](https://github.com/tomakady/url-shortener-ecs)
+### [AWS ECS Platform with Blue/Green Deployments](https://github.com/tomakady/url-shortener-ecs)
 Python application on ECS Fargate with blue/green deployments, WAF protection, and cost-optimized VPC endpoints. Fully automated CI/CD with OIDC authentication and vulnerability scanning.
 
 **Tech Stack:** ECS Fargate, CodeDeploy, DynamoDB, Terraform, GitHub Actions, WAF
